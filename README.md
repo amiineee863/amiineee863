@@ -8,7 +8,16 @@
 ```bash
 amine@lille:~$ cat about_me.txt
 ```
-<p align="center"> <img src="./about_me.svg" alt="about me" width="100%" /> </p>
+```yaml
+name:      Mohamed Elamine
+status:    open to internships & collaborations
+location:  Lille, France 🇫🇷
+education: Master MIAGE @ Université de Lille
+role:      Full Stack Developer
+backend:   [Spring Boot, Django]
+frontend:  [React]
+learning:  DevOps 🐧 (containers, CI/CD, cloud)
+```
 
 ```bash
 amine@lille:~$ ls ~/stack
