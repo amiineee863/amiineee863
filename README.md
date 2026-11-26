@@ -81,6 +81,5 @@ amine@lille:~$ cat contact.sh
 </p>
 
 ```bash
-amine@lille:~$ exit
-logout — thanks for visiting 👋
+amine@lille:~$ ls ~/projects
 ```
