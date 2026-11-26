@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
+  <style>
+    .t   { font-family: 'Ubuntu Mono', 'DejaVu Sans Mono', Consolas, monospace; font-size: 16px; }
+    .k   { fill: #E95420; font-weight: bold; }
+    .v   { fill: #FFFFFF; }
+    .p   { fill: #8AE234; font-weight: bold; }
+    .d   { fill: #729FCF; font-weight: bold; }
+    .ttl { fill: #DDDDDD; font-family: 'Ubuntu', 'DejaVu Sans', Arial, sans-serif; font-size: 13px; }
+  </style>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="819" height="299" rx="10" fill="#300A24" stroke="#77216F"/>
+  <!-- title bar -->
+  <path d="M0.5 10.5 a10 10 0 0 1 10 -10 h799 a10 10 0 0 1 10 10 v24 h-819 z" fill="#2C2C2C"/>
+  <text x="410" y="23" text-anchor="middle" class="ttl">amine@lille: ~</text>
+  <circle cx="755" cy="17.5" r="7" fill="#555"/>
+  <circle cx="775" cy="17.5" r="7" fill="#555"/>
+  <circle cx="795" cy="17.5" r="7" fill="#E95420"/>
+
+  <!-- prompt -->
+  <text x="20" y="62" class="t"><tspan class="p">amine@lille</tspan><tspan class="v">:</tspan><tspan class="d">~</tspan><tspan class="v">$ cat about_me.txt</tspan></text>
+
+  <!-- content -->
+  <text class="t" xml:space="preserve">
+    <tspan x="20" y="94"><tspan class="k">name:      </tspan><tspan class="v">Mohamed Elamine</tspan></tspan>
+    <tspan x="20" y="118"><tspan class="k">location:  </tspan><tspan class="v">Lille, France</tspan></tspan>
+    <tspan x="20" y="142"><tspan class="k">education: </tspan><tspan class="v">Master MIAGE @ Université de Lille</tspan></tspan>
+    <tspan x="20" y="166"><tspan class="k">role:      </tspan><tspan class="v">Backend Developer · Frontend Developer</tspan></tspan>
+    <tspan x="20" y="190"><tspan class="k">backend:   </tspan><tspan class="v">[Spring Boot, Django]</tspan></tspan>
+    <tspan x="20" y="214"><tspan class="k">frontend:  </tspan><tspan class="v">[React]</tspan></tspan>
+    <tspan x="20" y="238"><tspan class="k">learning:  </tspan><tspan class="v">DevOps (containers, CI/CD, cloud)</tspan></tspan>
+    <tspan x="20" y="262"><tspan class="k">status:    </tspan><tspan class="v">open to internships &amp; collaborations</tspan></tspan>
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="20" y="276" width="9" height="16" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
