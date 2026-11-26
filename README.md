@@ -66,8 +66,8 @@ amine@lille:~$ cat contact.sh
 ```
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-2C001E?style=for-the-badge&logo=linkedin&logoColor=E95420" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-2C001E?style=for-the-badge&logo=gmail&logoColor=E95420" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-elamine-hadj-ali-a87a22268/"><img src="https://img.shields.io/badge/LinkedIn-2C001E?style=for-the-badge&logo=linkedin&logoColor=E95420" /></a>
+  <a href="mailto:hadjali.mohamed.elamine@gmail.com"><img src="https://img.shields.io/badge/Email-2C001E?style=for-the-badge&logo=gmail&logoColor=E95420" /></a>
 </p>
 
 ```bash
