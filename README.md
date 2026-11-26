@@ -8,17 +8,7 @@
 ```bash
 amine@lille:~$ cat about_me.txt
 ```
-
-```yaml
-name:      Mohamed Elamine
-location:  Lille, France 🇫🇷
-education: Master MIAGE @ Université de Lille
-role:      Backend Developer · Frontend Developer
-backend:   [Spring Boot, Django]
-frontend:  [React]
-learning:  DevOps 🐧 (containers, CI/CD, cloud)
-status:    open to internships & collaborations
-```
+<p align="center"> <img src="./about_me.svg" alt="about me" width="100%" /> </p>
 
 ```bash
 amine@lille:~$ ls ~/stack
