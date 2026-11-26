@@ -33,6 +33,16 @@ amine@lille:~$ ls ~/stack
 </p>
 
 ```bash
+amine@lille:~$ ls ~/databases
+```
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-2C001E?style=for-the-badge&logo=postgresql&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/MySQL-2C001E?style=for-the-badge&logo=mysql&logoColor=E95420" />
+  <img src="https://img.shields.io/badge/Oracle_DB-2C001E?style=for-the-badge&logo=oracle&logoColor=E95420" />
+</p>
+
+```bash
 amine@lille:~$ ls ~/tools
 ```
 
